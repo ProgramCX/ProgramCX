@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 年龄：自己算
 
-- 身份：中学生、“冰软工作室”的创立者之一
+- 身份：Auster
 
 - 国籍：中华人民共和国
 
