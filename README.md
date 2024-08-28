@@ -40,7 +40,5 @@ Here are some ideas to get you started:
 
 - 参与安徽省天长中学第五十届田径运动会相册网站项目 
 
-- 创立“冰软工作室” 
-
-- 开发SecondDownloader下载器
+- 参与开发FlowD下载器
 
