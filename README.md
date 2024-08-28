@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### 事迹与项目
 
-- 制作破解学校机房教师控制软件-极域电子教室的OneKeyPlay软件 
+- 制作破解学校机房教师控制软件-极域电子教室的[OneKeyPlay](https://github.com/pinsoftstudio/OneKeyPlay)软件 
 
-- 参与安徽省天长中学第五十届田径运动会相册网站项目 
+- 参与[安徽省天长中学第五十届田径运动会相册网站](https://github.com/pinsoftstudio/tczxydh)项目 
 
-- 参与开发FlowD下载器
+- 参与开发[FlowD](https://github.com/L-Super/FlowD)下载器
 
