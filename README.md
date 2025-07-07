@@ -127,7 +127,7 @@
   <summary><b>Metrics</b></summary>
   <picture width="400" align="center" title="Metrics">
     <source srcset="https://raw.githubusercontent.com/ProgramCX/ProgramCX/output/metrics.svg" title="Metrics" />
-    <source srcset="https://raw.gitmirror.com/ProgramCX/ProgramCX/output/metrics.svg" title="Metrics" />
+    <source srcset="https://hub.gitmirror.com/raw.githubusercontent.com/ProgramCX/ProgramCX/output/metrics.svg" title="Metrics" />
     <img align="center" src="https://raw.githubusercontent.com/ProgramCX/ProgramCX/output/metrics.svg" width="400" title="Metrics" />
   </picture>
 </details>
