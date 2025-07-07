@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=I+am+Cheng+Xu.;Full-stack+developer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=I+am+Cheng+Xu.;Full-stack+developer!;Welcome+to+my+github+profile!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -38,7 +38,6 @@
 <sup><sup>(可点击)</sup></sup>
 
 ### 常用编程语言 / 框架
-
 [![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow)](https://github.com/ProgramCX?tab=repositories&q=&language=javascript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=typescript&logoColor=white&style=flat-square&labelColor=blue)](https://github.com/ProgramCX?tab=repositories&q=&language=typescript)
 [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/ProgramCX?tab=repositories&q=&language=C%2B%2B)
@@ -55,6 +54,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgramCX&theme=default&layout=compact" alt="Top Langs"  align="center" style="margin-top:10px"/>
     </picture>
   </a>
+
 ### 我使用的工具
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logoColor=white&style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiNmZmZmZmYiIGQ9Ik05MC43NjcgMTI3LjEyNmE3Ljk2OCA3Ljk2OCAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMyOCA1LjMyOCAwIDAgMC02LjgwNy4zMDJsLTcuMDQ4IDYuNDExYTUuMzM1IDUuMzM1IDAgMCAwLS4wMDYgNy44ODhMMjAuNzk2IDY0IDEuNzQgODEuMzg3YTUuMzM2IDUuMzM2IDAgMCAwIC4wMDYgNy44ODdsNy4wNDggNi40MTFhNS4zMjcgNS4zMjcgMCAwIDAgNi44MDcuMzAzbDIxLjk3NC0xNi42OCA1MC40NSA0Ni4wMjVhNy45NiA3Ljk2IDAgMCAwIDIuNzQzIDEuNzkzWm01LjI1Mi05Mi4xODNMNTcuNzQgNjRsMzguMjggMjkuMDU4VjM0Ljk0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==)](https://code.visualstudio.com)
@@ -91,7 +91,7 @@
    <p>...</p>
 </details>
 <details>
-<summary>未来打算继续开发</summary>
+<summary>先暂停会，未来打算继续开发</summary>
  <a href="https://github.com/ProgramCX/flow_im_app">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=flow_im_app&theme=one_dark_pro" alt="material-me" />
