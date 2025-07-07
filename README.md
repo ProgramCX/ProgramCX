@@ -42,7 +42,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=typescript&logoColor=white&style=flat-square&labelColor=blue)](https://github.com/ProgramCX?tab=repositories&q=&language=typescript)
 [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/ProgramCX?tab=repositories&q=&language=C%2B%2B)
 [![Qt](https://img.shields.io/badge/Qt-grey?logo=qt&logoColor=white&style=flat-square&labelColor=green)](https://github.com/ProgramCX?tab=repositories&q=&language=C%2B%2B)
-[![Vue](https://img.shields.io/badge/Vue.js-grey?logo=vue.js&logoColor=white&style=flat-square&labelColor=darkgreen)](https://github.com/ProgramCX?tab=repositories&q=&language=C%2B%2B)
+[![Vue](https://img.shields.io/badge/Vue.js-grey?logo=vue.js&logoColor=white&style=flat-square&labelColor=darkgreen)](https://github.com/ProgramCX?tab=repositories&q=&language=Vue)
 [![Java](https://img.shields.io/badge/Java-grey?style=flat-square&logo=openjdk&logoColor=white&labelColor=red)](https://github.com/ProgramCX?tab=repositories&q=&language=java)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-grey?style=flat-square&logo=spring&logoColor=white&labelColor=green)](https://github.com/ProgramCX?tab=repositories&q=&language=java)
 [![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat-square&logo=mysql&logoColor=white&labelColor=blue)](https://github.com/ProgramCX?tab=repositories&q=&language=java)
@@ -58,10 +58,10 @@
 ### 我使用的工具
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logoColor=white&style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiNmZmZmZmYiIGQ9Ik05MC43NjcgMTI3LjEyNmE3Ljk2OCA3Ljk2OCAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMyOCA1LjMyOCAwIDAgMC02LjgwNy4zMDJsLTcuMDQ4IDYuNDExYTUuMzM1IDUuMzM1IDAgMCAwLS4wMDYgNy44ODhMMjAuNzk2IDY0IDEuNzQgODEuMzg3YTUuMzM2IDUuMzM2IDAgMCAwIC4wMDYgNy44ODdsNy4wNDggNi40MTFhNS4zMjcgNS4zMjcgMCAwIDAgNi44MDcuMzAzbDIxLjk3NC0xNi42OCA1MC40NSA0Ni4wMjVhNy45NiA3Ljk2IDAgMCAwIDIuNzQzIDEuNzkzWm01LjI1Mi05Mi4xODNMNTcuNzQgNjRsMzguMjggMjkuMDU4VjM0Ljk0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==)](https://code.visualstudio.com)
-[![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-blue?logoColor=white&style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB0PSIxNzUxOTAyNjg4NzcxIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjEwNTA4IiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+PHBhdGggZD0iTTMwMS4zMzMzMzMgNzUwLjY3NzMzM2wtMjA2LjY1Ni0xNjIuNjY2NjY2IDEwMi42NTYtMTkwLjY3NzMzNEw0OTEuOTg5MzMzIDUxMnoiIGZpbGw9IiNGNTdDMDAiIHAtaWQ9IjEwNTA5Ij48L3BhdGg+PHBhdGggZD0iTTkzOC42NjY2NjcgMzEzLjM0NGwtMTYgNDkzLjMzMzMzM0w1OTQuNjY2NjY3IDkzOC42NjY2NjdsLTE5Ny4zMzMzMzQtMTI4IDI4OC0yOTguNjY2NjY3eiIgZmlsbD0iIzFFODhFNSIgcC1pZD0iMTA1MTAiPjwvcGF0aD48cGF0aCBkPSJNOTM4LjY2NjY2NyAzMTMuMzQ0TDY3OC42NTYgNjIwLjAxMDY2NyA1NjAgMjM0LjY2NjY2N2wxMTMuMzQ0LTEzNnoiIGZpbGw9IiMyOTYyRkYiIHAtaWQ9IjEwNTExIj48L3BhdGg+PHBhdGggZD0iTTc0MC4wMTA2NjcgNDE4LjY2NjY2N0w0OTYgNzkzLjM0NCAxNTQuNjY2NjY3IDkxNy4zMzMzMzNsNTQuNjc3MzMzLTE5MiA3MC42NTYtMjM3LjMzMzMzM3oiIGZpbGw9IiNBQjQ3QkMiIHAtaWQ9IjEwNTEyIj48L3BhdGg+PHBhdGggZD0iTTI4MCA0ODhMODUuMzMzMzMzIDQyMi42NzczMzMgMjA5LjM0NCA4NS4zMzMzMzNsMjY2LjY2NjY2NyAzMiAyNjQgMzAxLjMzMzMzNHoiIGZpbGw9IiNFOTFFNjMiIHAtaWQ9IjEwNTEzIj48L3BhdGg+PHBhdGggZD0iTTIzNC42NjY2NjcgMjM0LjY2NjY2N2g1MzMuMzMzMzMzdjUzMy4zMzMzMzNIMjM0LjY2NjY2N3oiIGZpbGw9IiMwMDAwMDEiIHAtaWQ9IjEwNTE0Ij48L3BhdGg+PHBhdGggZD0iTTI5OC42NjY2NjcgNjcyaDE5MlY3MDRoLTE5MnogbTEzOC42NjY2NjYtMzMzLjMzMzMzM1YyOTguNjY2NjY3aC0xMDYuNjY2NjY2djQwSDM2Mi42NjY2Njd2MTM4LjY2NjY2NmgtMzJ2NDBoMTA2LjY2NjY2NnYtNDBoLTI4LjYwOHYtMTM4LjY2NjY2NnogbTEwNCAxODRjLTQwIDAtNjEuMjQ4LTIzLjQyNC02OS4zMzMzMzMtMzMuMDI0bDMwLjEwMTMzMy0zNC4yNGM1LjQ0IDYuMDE2IDIwLjU2NTMzMyAyMS45MzA2NjcgMzkuMjMyIDIxLjkzMDY2NiAyNCAwIDI5LjMzMzMzMy0yNCAyOS4zMzMzMzQtMzcuMzMzMzMzVjI5OC42NjY2NjdINjE4LjY2NjY2N3YxNDEuMzMzMzMzYzAgMTMuMzEyIDAgMzQuNjY2NjY3LTE2IDU2LTExLjIgMTQuOTMzMzMzLTM3LjMzMzMzMyAyNi42NjY2NjctNjEuMzMzMzM0IDI2LjY2NjY2N3oiIGZpbGw9IiNGRkZGRkYiIHAtaWQ9IjEwNTE1Ij48L3BhdGg+PC9zdmc+)](https://code.visualstudio.com)
-[![WebStorm](https://img.shields.io/badge/WebStorm-blue?logoColor=white&style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB0PSIxNzUxOTAyOTMwOTI4IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjExNzEyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+PHBhdGggZD0iTTEwMjQgMEgwdjEwMjRoMTAyNFYweiIgZmlsbD0iIzA3QzNGMiIgcC1pZD0iMTE3MTMiPjwvcGF0aD48cGF0aCBkPSJNOTYwIDY0SDY0djg5Nmg4OTZWNjR6IiBmaWxsPSIjMDAwMDAwIiBwLWlkPSIxMTcxNCI+PC9wYXRoPjxwYXRoIGQ9Ik01NzYgNzY4SDE5MnY2NGgzODR2LTY0ek01ODguOCA1MTguNGw1MS4yLTU3LjZjMzIgMjUuNiA3MC40IDQ0LjggMTE1LjIgNDQuOCAzMiAwIDU3LjYtMTIuOCA1Ny42LTM4LjQgMC0xOS4yLTEyLjgtMzItNzYuOC01MS4yLTc2LjgtMTkuMi0xMjgtMzguNC0xMjgtMTE1LjIgMC03MC40IDU3LjYtMTE1LjIgMTM0LjQtMTE1LjIgNTcuNiAwIDEwMi40IDE5LjIgMTQwLjggNTEuMmwtNDQuOCA2NGMtMzItMjUuNi03MC40LTM4LjQtMTAyLjQtMzguNHMtNTEuMiAxMi44LTUxLjIgMzJjMCAyNS42IDE5LjIgMzIgODMuMiA1MS4yIDgzLjIgMTkuMiAxMjggNTEuMiAxMjggMTE1LjIgMCA3Ni44LTU3LjYgMTIxLjYtMTQwLjggMTIxLjYtNTcuNiAwLTExNS4yLTE5LjItMTY2LjQtNjR6TTMwNy4yIDU3Nmw2NC0yMjQgNTcuNiAyMjRoNzAuNGwxMDguOC0zODRINTE4LjRsLTUxLjIgMjI0LTY0LTIyNGgtNjRsLTY0IDIyNEwyMTcuNiAxOTJIMTM0LjRsMTAyLjQgMzg0aDcwLjR6IiBmaWxsPSIjRkZGRkZGIiBwLWlkPSIxMTcxNSI+PC9wYXRoPjwvc3ZnPg==)](https://code.visualstudio.com)
-[![CLion](https://img.shields.io/badge/CLion-blue?logoColor=white&style=flat-square&logo=clion)](https://code.visualstudio.com)
-[![Docker](https://img.shields.io/badge/Docker-blue?logoColor=white&style=flat-square&logo=docker)](https://code.visualstudio.com)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-blue?logoColor=white&style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB0PSIxNzUxOTAyNjg4NzcxIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjEwNTA4IiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+PHBhdGggZD0iTTMwMS4zMzMzMzMgNzUwLjY3NzMzM2wtMjA2LjY1Ni0xNjIuNjY2NjY2IDEwMi42NTYtMTkwLjY3NzMzNEw0OTEuOTg5MzMzIDUxMnoiIGZpbGw9IiNGNTdDMDAiIHAtaWQ9IjEwNTA5Ij48L3BhdGg+PHBhdGggZD0iTTkzOC42NjY2NjcgMzEzLjM0NGwtMTYgNDkzLjMzMzMzM0w1OTQuNjY2NjY3IDkzOC42NjY2NjdsLTE5Ny4zMzMzMzQtMTI4IDI4OC0yOTguNjY2NjY3eiIgZmlsbD0iIzFFODhFNSIgcC1pZD0iMTA1MTAiPjwvcGF0aD48cGF0aCBkPSJNOTM4LjY2NjY2NyAzMTMuMzQ0TDY3OC42NTYgNjIwLjAxMDY2NyA1NjAgMjM0LjY2NjY2N2wxMTMuMzQ0LTEzNnoiIGZpbGw9IiMyOTYyRkYiIHAtaWQ9IjEwNTExIj48L3BhdGg+PHBhdGggZD0iTTc0MC4wMTA2NjcgNDE4LjY2NjY2N0w0OTYgNzkzLjM0NCAxNTQuNjY2NjY3IDkxNy4zMzMzMzNsNTQuNjc3MzMzLTE5MiA3MC42NTYtMjM3LjMzMzMzM3oiIGZpbGw9IiNBQjQ3QkMiIHAtaWQ9IjEwNTEyIj48L3BhdGg+PHBhdGggZD0iTTI4MCA0ODhMODUuMzMzMzMzIDQyMi42NzczMzMgMjA5LjM0NCA4NS4zMzMzMzNsMjY2LjY2NjY2NyAzMiAyNjQgMzAxLjMzMzMzNHoiIGZpbGw9IiNFOTFFNjMiIHAtaWQ9IjEwNTEzIj48L3BhdGg+PHBhdGggZD0iTTIzNC42NjY2NjcgMjM0LjY2NjY2N2g1MzMuMzMzMzMzdjUzMy4zMzMzMzNIMjM0LjY2NjY2N3oiIGZpbGw9IiMwMDAwMDEiIHAtaWQ9IjEwNTE0Ij48L3BhdGg+PHBhdGggZD0iTTI5OC42NjY2NjcgNjcyaDE5MlY3MDRoLTE5MnogbTEzOC42NjY2NjYtMzMzLjMzMzMzM1YyOTguNjY2NjY3aC0xMDYuNjY2NjY2djQwSDM2Mi42NjY2Njd2MTM4LjY2NjY2NmgtMzJ2NDBoMTA2LjY2NjY2NnYtNDBoLTI4LjYwOHYtMTM4LjY2NjY2NnogbTEwNCAxODRjLTQwIDAtNjEuMjQ4LTIzLjQyNC02OS4zMzMzMzMtMzMuMDI0bDMwLjEwMTMzMy0zNC4yNGM1LjQ0IDYuMDE2IDIwLjU2NTMzMyAyMS45MzA2NjcgMzkuMjMyIDIxLjkzMDY2NiAyNCAwIDI5LjMzMzMzMy0yNCAyOS4zMzMzMzQtMzcuMzMzMzMzVjI5OC42NjY2NjdINjE4LjY2NjY2N3YxNDEuMzMzMzMzYzAgMTMuMzEyIDAgMzQuNjY2NjY3LTE2IDU2LTExLjIgMTQuOTMzMzMzLTM3LjMzMzMzMyAyNi42NjY2NjctNjEuMzMzMzM0IDI2LjY2NjY2N3oiIGZpbGw9IiNGRkZGRkYiIHAtaWQ9IjEwNTE1Ij48L3BhdGg+PC9zdmc+)](https://www.jetbrains.com/idea)
+[![WebStorm](https://img.shields.io/badge/WebStorm-blue?logoColor=white&style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB0PSIxNzUxOTAyOTMwOTI4IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjExNzEyIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+PHBhdGggZD0iTTEwMjQgMEgwdjEwMjRoMTAyNFYweiIgZmlsbD0iIzA3QzNGMiIgcC1pZD0iMTE3MTMiPjwvcGF0aD48cGF0aCBkPSJNOTYwIDY0SDY0djg5Nmg4OTZWNjR6IiBmaWxsPSIjMDAwMDAwIiBwLWlkPSIxMTcxNCI+PC9wYXRoPjxwYXRoIGQ9Ik01NzYgNzY4SDE5MnY2NGgzODR2LTY0ek01ODguOCA1MTguNGw1MS4yLTU3LjZjMzIgMjUuNiA3MC40IDQ0LjggMTE1LjIgNDQuOCAzMiAwIDU3LjYtMTIuOCA1Ny42LTM4LjQgMC0xOS4yLTEyLjgtMzItNzYuOC01MS4yLTc2LjgtMTkuMi0xMjgtMzguNC0xMjgtMTE1LjIgMC03MC40IDU3LjYtMTE1LjIgMTM0LjQtMTE1LjIgNTcuNiAwIDEwMi40IDE5LjIgMTQwLjggNTEuMmwtNDQuOCA2NGMtMzItMjUuNi03MC40LTM4LjQtMTAyLjQtMzguNHMtNTEuMiAxMi44LTUxLjIgMzJjMCAyNS42IDE5LjIgMzIgODMuMiA1MS4yIDgzLjIgMTkuMiAxMjggNTEuMiAxMjggMTE1LjIgMCA3Ni44LTU3LjYgMTIxLjYtMTQwLjggMTIxLjYtNTcuNiAwLTExNS4yLTE5LjItMTY2LjQtNjR6TTMwNy4yIDU3Nmw2NC0yMjQgNTcuNiAyMjRoNzAuNGwxMDguOC0zODRINTE4LjRsLTUxLjIgMjI0LTY0LTIyNGgtNjRsLTY0IDIyNEwyMTcuNiAxOTJIMTM0LjRsMTAyLjQgMzg0aDcwLjR6IiBmaWxsPSIjRkZGRkZGIiBwLWlkPSIxMTcxNSI+PC9wYXRoPjwvc3ZnPg==)](https://www.jetbrains.com/webstorm/)
+[![CLion](https://img.shields.io/badge/CLion-blue?logoColor=white&style=flat-square&logo=clion)](https://www.jetbrains.com/clion/)
+[![Docker](https://img.shields.io/badge/Docker-blue?logoColor=white&style=flat-square&logo=docker)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-orange?logoColor=white&style=flat-square&logo=git)](https://git-scm.com)
 
 ## 关于我
@@ -78,14 +78,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=one_dark_pro" alt="material-me" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=default" alt="material-me" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=default" alt="material-me" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=default" alt="foxnaserver" />
     </picture>
   </a>
   <a href="https://github.com/ProgramCX/FoxNAS">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAS&theme=one_dark_pro" alt="material-me" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAS&theme=default" alt="material-me" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAS&theme=default" alt="material-me" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAS&theme=default" alt="foxnas" />
     </picture>
   </a>
    <p>...</p>
@@ -96,7 +96,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=flow_im_app&theme=one_dark_pro" alt="material-me" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=flow_im_app&theme=default" alt="material-me" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=flow_im_app&theme=default" alt="material-me" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=flow_im_app&theme=default" alt="flow_im_app" />
     </picture>
   </a>
    <p>...</p>
@@ -108,12 +108,20 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=L-Super&repo=flowd&theme=one_dark_pro" alt="rename-back-lnk" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=L-Super&repo=flowd&theme=default" alt="rename-back-lnk" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=rename-back-lnk&theme=default" alt="rename-back-lnk" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=rename-back-lnk&theme=default" alt="flowd" />
     </picture>
   </a>
  <p>...</p>
 </details>
 
+### 我的贡献
+<a href="hhttps://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ProgramCX&layout=compact&theme=one_dark_pro" alt="rename-back-lnk" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ProgramCX&layout=compact&theme=default" alt="rename-back-lnk" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ProgramCX&layout=compact&theme=default" alt="rename-back-lnk" />
+    </picture>
+  </a>
 <picture align="center" title="GitHub contribution grid snake animation">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProgramCX/ProgramCX/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProgramCX/ProgramCX/output/github-contribution-grid-snake.svg" />
