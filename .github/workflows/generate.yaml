@@ -48,7 +48,13 @@ jobs:
           plugin_isocalendar: yes
           plugin_repositories: yes
           plugin_repositories_pinned: 4
-
+          
+      # 将生成的蛇图和 Metrics SVG 移动到 dist 目录
+      - name: 📥 Move metrics.svg to dist
+        run: |
+          mkdir -p dist
+          cp /metrics_renders/metrics.svg dist/
+          
       # 推送到 output 分支
       - name: 💾 Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
