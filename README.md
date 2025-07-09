@@ -20,9 +20,9 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;width=100vw">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <picture title="GitHub Stats">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ProgramCX&show_icons=true&theme=one_dark_pro" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ProgramCX&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-      <img src="https://github-readme-stats.vercel.app/api?username=ProgramCX&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" height=200 align="center" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api?username=ProgramCX&show_icons=true&theme=one_dark_pro" />
+      <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api?username=ProgramCX&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+      <img src="https://stats.programcx.cn/api?username=ProgramCX&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" height=200 align="center" />
     </picture>
   </a>
  
@@ -49,9 +49,9 @@
 
  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" >
     <picture title="Top Langs">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ProgramCX&theme=one_dark_pro&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ProgramCX&theme=default&layout=compact" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgramCX&theme=default&layout=compact" alt="Top Langs"  align="center" style="margin-top:10px"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/top-langs?username=ProgramCX&theme=one_dark_pro&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/top-langs?username=ProgramCX&theme=default&layout=compact" />
+      <img src="https://stats.programcx.cn/api/top-langs?username=ProgramCX&theme=default&layout=compact" alt="Top Langs"  align="center" style="margin-top:10px"/>
     </picture>
   </a>
 
@@ -76,16 +76,16 @@
   <summary>正在开发中</summary>
   <a href="https://github.com/ProgramCX/FoxNAServer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=one_dark_pro" alt="material-me" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=default" alt="material-me" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=default" alt="foxnaserver" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=one_dark_pro" alt="material-me" />
+      <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=default" alt="material-me" />
+      <img src="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=FoxNAServer&theme=default" alt="foxnaserver" />
     </picture>
   </a>
   <a href="https://github.com/ProgramCX/FoxNAS">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAS&theme=one_dark_pro" alt="material-me" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAS&theme=default" alt="material-me" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=FoxNAS&theme=default" alt="foxnas" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=FoxNAS&theme=one_dark_pro" alt="material-me" />
+      <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=FoxNAS&theme=default" alt="material-me" />
+      <img src="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=FoxNAS&theme=default" alt="foxnas" />
     </picture>
   </a>
    <p>...</p>
@@ -94,9 +94,9 @@
 <summary>先暂停会，未来打算继续开发</summary>
  <a href="https://github.com/ProgramCX/flow_im_app">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=flow_im_app&theme=one_dark_pro" alt="material-me" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=flow_im_app&theme=default" alt="material-me" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=flow_im_app&theme=default" alt="flow_im_app" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=flow_im_app&theme=one_dark_pro" alt="material-me" />
+      <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=flow_im_app&theme=default" alt="material-me" />
+      <img src="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=flow_im_app&theme=default" alt="flow_im_app" />
     </picture>
   </a>
    <p>...</p>
@@ -106,9 +106,9 @@
   <summary>参与开发</summary>
   <a href="https://github.com/L-Super/FlowD">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=L-Super&repo=flowd&theme=one_dark_pro" alt="rename-back-lnk" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=L-Super&repo=flowd&theme=default" alt="rename-back-lnk" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgramCX&repo=rename-back-lnk&theme=default" alt="flowd" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/pin/?username=L-Super&repo=flowd&theme=one_dark_pro" alt="rename-back-lnk" />
+      <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/pin/?username=L-Super&repo=flowd&theme=default" alt="rename-back-lnk" />
+      <img src="https://stats.programcx.cn/api/pin/?username=ProgramCX&repo=rename-back-lnk&theme=default" alt="flowd" />
     </picture>
   </a>
  <p>...</p>
@@ -117,9 +117,9 @@
 ## 我的贡献
 <a href="hhttps://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ProgramCX&layout=compact&theme=one_dark_pro" alt="rename-back-lnk" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ProgramCX&layout=compact&theme=default" alt="rename-back-lnk" />
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ProgramCX&layout=compact&theme=default" alt="rename-back-lnk" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/wakatime?username=ProgramCX&layout=compact&theme=one_dark_pro" alt="rename-back-lnk" />
+      <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/wakatime?username=ProgramCX&layout=compact&theme=default" alt="rename-back-lnk" />
+      <img src="https://stats.programcx.cn/api/wakatime?username=ProgramCX&layout=compact&theme=default" alt="rename-back-lnk" />
     </picture>
   </a>
 <picture align="center" title="GitHub contribution grid snake animation">
