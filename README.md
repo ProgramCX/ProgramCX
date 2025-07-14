@@ -115,7 +115,7 @@
 </details>
 
 ## 我的贡献
-<a href="hhttps://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/wakatime?username=ProgramCX&layout=compact&theme=one_dark_pro&cache_seconds=" alt="rename-back-lnk" />
       <source media="(prefers-color-scheme: light)" srcset="https://stats.programcx.cn/api/wakatime?username=ProgramCX&layout=compact&theme=default&cache_seconds=" alt="rename-back-lnk" />
