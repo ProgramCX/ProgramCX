@@ -1,9 +1,3 @@
-<!-- Hello There! -->
-<!--
-  Please just feel free to copy this README.
-  I'm also learning coding, so we can make friends if you want to. :)
--->
-
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=I+am+Cheng+Xu.;Full-stack+developer!;Welcome+to+my+github+profile!" alt="Typing SVG" />
