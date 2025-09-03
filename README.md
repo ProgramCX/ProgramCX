@@ -38,6 +38,7 @@
 [![Qt](https://img.shields.io/badge/Qt-grey?logo=qt&logoColor=white&style=flat-square&labelColor=green)](https://github.com/ProgramCX?tab=repositories&q=&language=C%2B%2B)
 [![Vue](https://img.shields.io/badge/Vue.js-grey?logo=vue.js&logoColor=white&style=flat-square&labelColor=darkgreen)](https://github.com/ProgramCX?tab=repositories&q=&language=Vue)
 [![Java](https://img.shields.io/badge/Java-grey?style=flat-square&logo=openjdk&logoColor=white&labelColor=red)](https://github.com/ProgramCX?tab=repositories&q=&language=java)
+[![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=flat-square&logo=kotlin&logoColor=white&labelColor=purple)](https://github.com/ProgramCX?tab=repositories&q=&language=java)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-grey?style=flat-square&logo=spring&logoColor=white&labelColor=green)](https://github.com/ProgramCX?tab=repositories&q=&language=java)
 [![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat-square&logo=mysql&logoColor=white&labelColor=blue)](https://github.com/ProgramCX?tab=repositories&q=&language=java)
 
